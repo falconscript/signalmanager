@@ -1,0 +1,23 @@
+{
+  "name": "signalmanager",
+  "private": false,
+  "version": "1.0.0",
+  "description": "ES6 JS class to capture exit signals and specify callbacks to accept or deny them",
+  "keywords": [
+    "signalmanager",
+    "signal",
+    "sigint",
+    "sigterm",
+    "sigkill",
+    "signal handler",
+    "signal callback",
+    "callback",
+    "sighup",
+    "exit"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/falconscript/signalmanager"
+  }
+}
