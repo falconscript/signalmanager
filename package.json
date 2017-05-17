@@ -1,7 +1,7 @@
 {
   "name": "signalmanager",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "ES6 JS class to capture exit signals and specify callbacks to accept or deny them",
   "keywords": [
     "signalmanager",
